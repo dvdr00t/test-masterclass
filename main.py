@@ -5,7 +5,7 @@ print("Hello, world!"
 
 # Bug 2: Index Error
 numbers = [1, 2, 3, 4, 5]
-print(numbers[5])
+print(numbers[2])
 
 # Bug 3: NameError
 result = x + 5
