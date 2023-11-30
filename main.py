@@ -1,7 +1,7 @@
 # buggy_code.py
 
 # Bug 1: Syntax Error
-print("Hello, world!"
+print("Hello, world!")
 
 # Bug 2: Index Error
 numbers = [1, 2, 3, 4, 5]
